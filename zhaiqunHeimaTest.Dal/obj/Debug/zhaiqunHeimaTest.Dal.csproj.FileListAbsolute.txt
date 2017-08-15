@@ -1,0 +1,7 @@
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\bin\Debug\zhaiqunHeimaTest.Dal.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\bin\Debug\zhaiqunHeimaTest.Dal.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\obj\Debug\zhaiqunHeimaTest.Dal.csprojResolveAssemblyReference.cache
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\obj\Debug\zhaiqunHeimaTest.Dal.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\obj\Debug\zhaiqunHeimaTest.Dal.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\bin\Debug\zhaiqunHeimaTest.Model.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Dal\bin\Debug\zhaiqunHeimaTest.Model.pdb

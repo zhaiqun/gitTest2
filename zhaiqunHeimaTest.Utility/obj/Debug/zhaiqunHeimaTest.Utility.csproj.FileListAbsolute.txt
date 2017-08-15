@@ -1,0 +1,4 @@
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Utility\bin\Debug\zhaiqunHeimaTest.Utility.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Utility\bin\Debug\zhaiqunHeimaTest.Utility.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Utility\obj\Debug\zhaiqunHeimaTest.Utility.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Utility\obj\Debug\zhaiqunHeimaTest.Utility.pdb

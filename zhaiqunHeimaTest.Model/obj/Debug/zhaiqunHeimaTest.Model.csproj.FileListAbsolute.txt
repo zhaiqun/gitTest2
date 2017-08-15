@@ -1,0 +1,4 @@
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Model\bin\Debug\zhaiqunHeimaTest.Model.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Model\bin\Debug\zhaiqunHeimaTest.Model.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Model\obj\Debug\zhaiqunHeimaTest.Model.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Model\obj\Debug\zhaiqunHeimaTest.Model.pdb

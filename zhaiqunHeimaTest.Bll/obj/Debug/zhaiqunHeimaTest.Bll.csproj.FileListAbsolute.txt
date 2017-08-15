@@ -1,0 +1,9 @@
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\bin\Debug\zhaiqunHeimaTest.Bll.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\bin\Debug\zhaiqunHeimaTest.Bll.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\obj\Debug\zhaiqunHeimaTest.Bll.csprojResolveAssemblyReference.cache
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\obj\Debug\zhaiqunHeimaTest.Bll.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\obj\Debug\zhaiqunHeimaTest.Bll.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\bin\Debug\zhaiqunHeimaTest.Dal.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\bin\Debug\zhaiqunHeimaTest.Model.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\bin\Debug\zhaiqunHeimaTest.Dal.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.Bll\bin\Debug\zhaiqunHeimaTest.Model.pdb

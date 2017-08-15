@@ -1,0 +1,13 @@
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.UI.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.UI.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\obj\Debug\zhaiqunHeimaTest.UI.csprojResolveAssemblyReference.cache
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\obj\Debug\zhaiqunHeimaTest.UI.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\obj\Debug\zhaiqunHeimaTest.UI.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Bll.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Model.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Dal.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Bll.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Model.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Dal.pdb
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Utility.dll
+D:\zhaiqunHeimaTest\zhaiqunHeimaTest.UI\bin\zhaiqunHeimaTest.Utility.pdb
